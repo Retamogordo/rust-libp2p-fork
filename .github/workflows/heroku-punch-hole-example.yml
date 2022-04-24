@@ -3,7 +3,7 @@ name: heroku punch hole example
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
 
